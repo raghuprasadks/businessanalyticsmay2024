@@ -1,0 +1,38 @@
+Agenda:
+1. Downloading required
+softwares
+a. download and install python
+b. download and install PyCharm
+community edition
+2. Introduction to business
+analytics with python
+
+
+1.create businessanalytics folder
+2. create programs folder inside businesanalytics
+3. In windows search type cmd and enter
+4. python --version
+
+Helloworld
+Datatypes
+
+Operators 
+- arithmetic - +,-,*,/,//,**,%
+- comparision - >,<,<=,>=,==,!=
+- logical - and,or,not
+
+and
+expr1 and expr2
+T and T = T
+T and F = F
+or
+expr1 or expr2
+T or F = T
+T or T = T
+not
+not T = F
+not F = T
+
+
+
+
