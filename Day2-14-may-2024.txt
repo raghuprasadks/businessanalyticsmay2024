@@ -73,7 +73,7 @@ businessanalyticsmay2024 - programs
 
 Function
 
-Assignment:
+Assignment 1:
 Write a function to calculate 
 discount and amounttopay (netpayment) as per following
 advertisement in a mall
@@ -88,6 +88,26 @@ discount = 1000
 netamt = totalpurchase-discount
 =10000-1000 = 9000
 def shopping(totalpurchase)
+
+Assignment 2:
+
+Write a function to display grade for a subject
+as per the details given below
+
+marks >90 and marks <=100 - grade A+
+marks >80 and marks <=90 - grade A
+marks >70 and marks <=80 - grade B+
+marks >60 and marks <=70 - grade B
+else:
+C
+
+def grade(marks)
+
+
+
+
+
+
 
 
 
