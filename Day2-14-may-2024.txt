@@ -66,6 +66,35 @@ while (start <= end)
 print(start)
 start = start +1
 
+kaushalya tech
+
+git - Repositories - 
+businessanalyticsmay2024 - programs
+
+Function
+
+Assignment:
+Write a function to calculate 
+discount and amounttopay (netpayment) as per following
+advertisement in a mall
+
+purchase <= 10000 - discount - 10%
+purchase >10000 upto <=20000 - 20 %
+purchase >20000 upto <=30000 - 30 %
+purchase > 30000 - 35 %
+
+totalpurchase = 10000 - 10%
+discount = 1000
+netamt = totalpurchase-discount
+=10000-1000 = 9000
+def shopping(totalpurchase)
+
+
+
+
+
+
+
 
 
 
