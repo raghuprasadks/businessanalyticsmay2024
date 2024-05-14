@@ -1,0 +1,77 @@
+Agenda:
+Business Analytics with python
+1. Recap
+2. Loops  - while/for
+3. Deepdive - list and dictionary
+4.Object oriented programming 
+Class and Objects
+Recap:
+1. Download and install python
+2. Download and installed PyCharm
+community edition
+
+Basics - Python programming
+datatypes - 
+basic - str,int,float,bool
+name='ravi'
+or
+name="ravi" - str
+age =19 - int
+amount = 100.50 - float
+rUMember = True/False
+Advanced datatypes 
+list - [] - fruits=['apple','banana','mango']
+tuple - () - constant list - days=('Mon','Tue','Wed')
+dictionary - {key1:value1,key2:value2}
+set - {value1,value2,value3}
+
+Operators -
+Arithmetic Operators - +,-,*,/,//,%,**
+Comparision Operators - >,<,>=,<=,==,!=
+Logical Operators - and,or,not
+9>7 and 6>3
+T and T
+T
+9>10 and 6>3
+F and T
+F
+9>10 or 6>3
+F or T
+T
+not (9<10)
+not T
+F
+
+if <condition>:
+	action
+else:
+	action
+elif
+
+
+
+
+Loops
+print
+1
+2
+3
+4
+...
+10
+
+start = 1
+end = 10
+while (start <= end)
+print(start)
+start = start +1
+
+
+
+
+
+
+
+
+
+
