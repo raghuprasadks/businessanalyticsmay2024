@@ -65,13 +65,22 @@ https://colab.research.google.com/
 
 https://www.listendata.com/2017/12/python-pandas-tutorial.html
 
-
-
-
-
-
-
-
-
 package - group of such libraries
+
+pandas - data structures
+
+dataframe - similar to the way data is stored
+in a excel
+2 dimensional - rows and columns
+
+series - time series 
+
+create incomedataanalysis.ipynb file in google colab
+type following program
+
+import pandas as pd
+income = pd.read_csv("https://github.com/deepanshu88/Datasets/raw/master/UploadedFiles/income.csv")
+print("data type ",type(income))
+
+
 
