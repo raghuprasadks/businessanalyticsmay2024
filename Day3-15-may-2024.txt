@@ -74,6 +74,7 @@ in a excel
 2 dimensional - rows and columns
 
 series - time series 
+http://www.kaushalya.tech/
 
 create incomedataanalysis.ipynb file in google colab
 type following program
