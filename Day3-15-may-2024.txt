@@ -40,3 +40,38 @@ invoice
 pandas
 Installing pandas
 exploring pandas
+
+program - 
+library - group of programs 
+pandas -
+matplotlib - visuals
+numpy - numeric python
+
+pandas you can read data from
+different data sources
+
+excel,csv,database,pdf
+Exploratory Data Analytics
+
+Steps
+1. create dataanalytics folder
+2. create a project using dataanalytics folder
+3. Install pandas
+
+
+googlecolab
+https://colab.research.google.com/
+
+
+https://www.listendata.com/2017/12/python-pandas-tutorial.html
+
+
+
+
+
+
+
+
+
+package - group of such libraries
+
