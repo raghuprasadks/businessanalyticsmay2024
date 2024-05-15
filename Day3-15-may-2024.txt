@@ -1,0 +1,42 @@
+Agenda:
+1. Recap
+- Class and Objects
+
+class is a template or a blueprint
+plan
+construct a house
+
+ecommerce
+
+customer
+
+property/attribute
+
+email/mobile
+name
+address
+
+functionality
+signup
+login
+search
+order
+return
+
+
+
+product
+employees
+suppliers
+shippers
+order
+invoice
+
+
+
+2.Constructor in python 
+
+3. Dataanalytics with python
+pandas
+Installing pandas
+exploring pandas

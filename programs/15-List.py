@@ -1,6 +1,7 @@
 """
 List - []
 """
+"""
 fruits = ['Apple','Banana','Guava']
 print("fruits ",fruits)
 fruits.append("Mango")
@@ -23,3 +24,13 @@ fruittosearch = input("Enter fruit to  search")
 for fruit in fruits:
     if (fruit ==fruittosearch):
         print(fruittosearch, " is found")
+"""
+runs=[10,25,35,12,55,3]
+print("maximum runs ",max(runs))
+print("minimum runs ",min(runs))
+print("total runs ",sum(runs))
+length = len(runs)
+total = sum(runs)
+avg = total/length
+print("average runs ",avg)
+

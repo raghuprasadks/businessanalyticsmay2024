@@ -104,6 +104,27 @@ C
 def grade(marks)
 
 
+Object oriented programming
+class and object
+
+construct a house
+
+civil engineering plan
+plan - rooms,windows,dimensions
+cements bags,iron,estimate
+template
+same plan and construct many houses
+
+Apartment
+2 BHK
+3 BHK
+
+Bank
+Branches
+Services - Account,loan,mf,
+
+Scripting
+
 
 
 
