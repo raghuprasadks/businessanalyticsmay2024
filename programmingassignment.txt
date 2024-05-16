@@ -1,0 +1,12 @@
+1. Search for ipl table 2024
+2. Create a ipl dataframe
+3. Display data of ipl 2024
+4. Display data for following columns
+Team, Matches,Points
+5. Display top 4 teams based on the points in descending order
+6. Display teams who's points is more than 12
+7. Display sum of points of all teams
+8. Display teams whose winning percentage is more than 60 %
+9. Draw bar chart of team vs points
+10. Draw pie chart of team vs winning percentage
+
