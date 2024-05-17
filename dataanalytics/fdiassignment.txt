@@ -1,0 +1,13 @@
+1. Create fdi dataframe by reading
+data from FDI_in_India.csv file
+2. Display all data in the data frame
+3. Display  total of foreign investment in the year 2003-04
+4. Which sector has received
+maximum investment across different years
+5. What is the percentage of
+investment in TELECOMMUNICATIONS
+in the year 2005-06
+6. Draw bar chart of year wise
+total investment
+7. Draw pie chart for top 5 
+sectors
