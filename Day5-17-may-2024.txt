@@ -1,0 +1,26 @@
+Agenda:
+1. Recap
+Pandas
+1 dimensional data - Series - list
+2 dimensional data - DataFrame - dictionary
+
+number of rows and columns in a dataframe
+df.shape
+
+
+Matplotlib
+
+
+NumPy
+2. Use cases in different business
+domains from Kaggle
+ipl dataset in Kaggle
+
+https://www.kaggle.com/datasets/utkarshtomar736/ipl-mens-cricket-matches-data-2008-2023
+
+
+
+3. Recap from the day 1 topics
+4. Feedback
+5. MCQ questions
+6. Programming assignment
