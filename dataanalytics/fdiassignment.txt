@@ -11,3 +11,20 @@ in the year 2005-06
 total investment
 7. Draw pie chart for top 5 
 sectors
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+#2. Create a ipl dataframe
+ipl=pd.read_excel("IPL 2024.xlsx")
+
+#3. Display data of ipl 2024
+ipl
+
+#3. Display  total of foreign investment in the year 2003-04
+fdi[["2003-04"]].sum()
+
+
+
+
